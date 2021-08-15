@@ -1,8 +1,8 @@
 //starts
-//Author : Nazwa
-//Hayolo numpang nama doang
-//Ckckckck
-//Mengaku yang bukan punya nya
+//Owner Rangga 256
+//Author Nazwa Rename Rangga
+//Awikwok
+//Bot Wangsaf
 const {
     WAConnection,
     MessageType,
